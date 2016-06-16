@@ -64,7 +64,7 @@ git clone git.github.com/dlf2042/mptcp_openwrt
 ```
 # Télécharger le patch MPTCP pour le kernel 3.18
 wget http://multipath-tcp.org/patches/mptcp-v3.18.26-0411d31b5311.patch
-cp mptcp-v3.18.26-0411d31b5311.patch target/linux/generic/patches-3.18/622-mptcp_linux_kernel.pa
+cp mptcp-v3.18.26-0411d31b5311.patch target/linux/generic/patches-3.18/622-mptcp_linux_kernel.patch
 ```
 
 
