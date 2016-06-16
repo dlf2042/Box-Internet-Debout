@@ -2,6 +2,11 @@
 Box-Internet-Debout
 ===============================
 
+
+
+![Box Internet Debout](/box-internet-debout.png)
+
+
 ## I - Présentation
 
 Vous pouvez trouver la présentation du projet sur la page wiki de Nuit Debout:
