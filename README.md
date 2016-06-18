@@ -38,7 +38,7 @@ gunzip -d openwrt-brcm2708-bcm2709-sdcard-vfat-ext4.img.gz
 
 ```
 # Flasher sur une carte SD l'image extraite
-dd if=openwrt-brcm2708-bcm2709-sdcard-vfat-ext4.img of=/dev/sdX # Remplacer X par la lettre correspondante
+sudo dd if=openwrt-brcm2708-bcm2709-sdcard-vfat-ext4.img of=/dev/sdX # Remplacer X par la lettre correspondante
 ```
 
 #####  B) Construire l'image soit-même
